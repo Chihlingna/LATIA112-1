@@ -14,7 +14,7 @@
 
 # 課程筆記區 
 # 作業連結區 
-## 作業一(https://github.com/Chihlingna/LATIA112-1/blob/main/bad.ipynb)
+## 作業一([https://github.com/Chihlingna/LATIA112-1/blob/main/bad.ipynb](https://github.com/Chihlingna/LATIA112-1/blob/main/homework1.ipynb)https://github.com/Chihlingna/LATIA112-1/blob/main/homework1.ipynb)
 ## 作業二
 ## 作業三
 # 專題連結區
