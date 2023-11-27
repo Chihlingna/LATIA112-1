@@ -16,5 +16,5 @@
 # 作業連結區 
 ## 作業一(https://github.com/Chihlingna/LATIA112-1/blob/main/homework1.ipynb)
 ## 作業二(https://github.com/Chihlingna/LATIA112-1/tree/main/homework2)
-## 作業三
+## 作業三(https://docs.google.com/document/d/1u_oTQdZeH7FDbJpLlZeWwMjr-cRrz2UZhJxBOBUcXeY/edit)
 # 專題連結區
