@@ -10,8 +10,8 @@
   * [作業一](https://github.com/ett9292/LATIA112-1#作業一)  
   * [作業二](https://github.com/ett9292/LATIA112-1#作業二)
   * [作業三](https://github.com/ett9292/LATIA112-1#作業三)
-  * [作業四](https://github.com/ett9292/LATIA112-1#作業四code)
-  * [作業四](https://github.com/ett9292/LATIA112-1#作業四網頁截圖)
+  * [作業四-1](https://github.com/ett9292/LATIA112-1#作業四code)
+  * [作業四-2](https://github.com/ett9292/LATIA112-1#作業四網頁截圖)
 * [**專題連結區**](https://github.com/ett9292/LATIA112-1#專題連結區)
 
 # 課程筆記區 
