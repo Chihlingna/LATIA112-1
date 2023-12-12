@@ -9,16 +9,15 @@
 * [**作業連結區**](https://github.com/ett9292/LATIA112-1#作業連結區)  
   * [作業一](https://github.com/ett9292/LATIA112-1#作業一)  
   * [作業二](https://github.com/ett9292/LATIA112-1#作業二)
-  * [作業三](https://github.com/Chihlingna/LATIA112-1/tree/main/HW3)
-  * [作業四](https://github.com/Chihlingna/LATIA112-1/tree/main/HW4)
+  * [作業三](https://github.com/ett9292/LATIA112-1#作業三)
+  * [作業四](https://github.com/ett9292/LATIA112-1#作業四)
 * [**專題連結區**](https://github.com/ett9292/LATIA112-1#專題連結區)
 
 # 課程筆記區 
 # 作業連結區 
 ## 作業一(https://github.com/Chihlingna/LATIA112-1/blob/main/homework1.ipynb)
 ## 作業二(https://github.com/Chihlingna/LATIA112-1/tree/main/homework2)
-## 作業三(https://docs.google.com/document/d/1u_oTQdZeH7FDbJpLlZeWwMjr-cRrz2UZhJxBOBUcXeY/edit)
-## 作業四code(https://github.com/Chihlingna/LATIA112-1/tree/main/bar%20pie)
-## 作業四網頁截圖(https://docs.google.com/document/d/18XOh7Sizb0L6HTaEj0aBIihOo9RxIUKuM2tJ-lZhNCI/edit)
+## 作業三(https://github.com/Chihlingna/LATIA112-1/tree/main/HW3)
+## 作業四(https://github.com/Chihlingna/LATIA112-1/tree/main/HW4)
 # 專題連結區
 
