@@ -11,6 +11,7 @@
   * [作業二](https://github.com/ett9292/LATIA112-1#作業二)
   * [作業三](https://github.com/ett9292/LATIA112-1#作業三)
   * [作業四](https://github.com/ett9292/LATIA112-1#作業四)
+  * [作業四-網頁](https://github.com/ett9292/LATIA112-1#作業四-網頁)
 * [**專題連結區**](https://github.com/ett9292/LATIA112-1#專題連結區)
 
 # 課程筆記區 
@@ -19,5 +20,6 @@
 ## 作業二(https://github.com/Chihlingna/LATIA112-1/tree/main/homework2)
 ## 作業三(https://github.com/Chihlingna/LATIA112-1/tree/main/HW3)
 ## 作業四(https://github.com/Chihlingna/LATIA112-1/tree/main/HW4)
+## 作業四-網頁(https://chihlingna.github.io/chart/)
 # 專題連結區
 
